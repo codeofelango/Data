@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+nc: 6
+names: ['Deck Faucet', 'Air Curtain', 'Aluminum Shelves', 'Coffee Maker', 'Suprema', 'Toilet']
